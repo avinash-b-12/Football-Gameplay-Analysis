@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1604241751 source:c:\users\avinash chandan\desktop\3rd semester\daa lab\package\soccer strategy\main.cpp
+	<iostream>
+	<graphics.h>
+	"Match.h"
+
+1604169986 source:c:\users\avinash chandan\desktop\3rd semester\daa lab\package\soccer strategy\player.cpp
+	<iostream>
+	<string>
+	"Player.h"
+
+1604169986 c:\users\avinash chandan\desktop\3rd semester\daa lab\package\soccer strategy\player.h
+	<iostream>
+
+1604171323 source:c:\users\avinash chandan\desktop\3rd semester\daa lab\package\soccer strategy\team.cpp
+	<iostream>
+	<string>
+	"Team.h"
+
+1604171323 c:\users\avinash chandan\desktop\3rd semester\daa lab\package\soccer strategy\team.h
+	<iostream>
+	<string>
+	"Player.h"
+
+1604223859 c:\users\avinash chandan\desktop\3rd semester\daa lab\package\soccer strategy\match.h
+	<iostream>
+	<string>
+	"Team.h"
+	"Football.h"
+
+1604223859 source:c:\users\avinash chandan\desktop\3rd semester\daa lab\package\soccer strategy\match.cpp
+	<iostream>
+	<string>
+	"Match.h"
+
+1604257971 source:c:\users\avinash chandan\desktop\3rd semester\daa lab\package\soccer strategy\football.cpp
+	<iostream>
+	<string>
+	<graphics.h>
+	"Football.h"
+	"Team.h"
+
+1604171515 c:\users\avinash chandan\desktop\3rd semester\daa lab\package\soccer strategy\football.h
+	<iostream>
+	<string>
+	"Team.h"
+
